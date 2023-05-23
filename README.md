@@ -5,3 +5,8 @@
 
 > python project is the part of new learning about python as i am already aware about the python but i believe i am rusted for not doing practicing python for so long.
 
+### What Project i am planning to do ? 
+
++ Don't know yet
+* Don't  know
+- Don't know yet
