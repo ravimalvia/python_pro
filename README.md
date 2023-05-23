@@ -10,3 +10,8 @@
 + Don't know yet
 * Don't  know
 - Don't know yet
+
+
+### Below are some very good python courses:
++ [freecodecamp](https://www.freecodecamp.org/)
+- [Geeks for Geeks](https://geeksforgeeks.org/)
