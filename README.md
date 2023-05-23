@@ -18,6 +18,6 @@
 
 ### Let's put it here the image:
 
-- ![](C:\Users\MALVI\OneDrive\Desktop\py\python_dir\Python-Symbol.png)
+- ![logo](C:\Users\MALVI\OneDrive\Desktop\py\python_dir\Python-Symbol.png)
 
 
